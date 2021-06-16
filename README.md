@@ -1,6 +1,13 @@
 ## Nicolás J. Engler
 
-I’m a digital product designer that also happens to do a bunch of other stuff. From Argentina 🇦🇷.
+```js
+  const Nico = {
+    name: 'Nicolás',
+    currentPosition: 'Technical Product Manager',
+    pronouns: 'he/him',
+    bio: 'I’m a digital product designer that also happens to do a bunch of other stuff. From Argentina 🇦🇷.'
+  }
+```
 
 To be quite frank, like I previously stated, I tend to do a lot of different activities and tasks. Sometimes I write short stuff, and sometimes I write longer stuff. I will most likely forget to update my internet-y resumé, and every once in a while I like to upload pictures of what I do to an online photo album. Oh, right! I also founded a small little agency.
 
