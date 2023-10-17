@@ -5,7 +5,8 @@
     name: 'Nicolás',
     currentPosition: 'Technical Product Manager',
     pronouns: 'he/him',
-    bio: 'I’m a digital product manager that also happens to do a bunch of other stuff. From Argentina 🇦🇷.'
+    bio: 'I’m a digital product manager that also happens to do a bunch of other stuff. From Argentina 🇦🇷.',
+    intro: 'I’ve worked with brands and institutions such as Pepsi, United States Tennis Association, Vayner, Red Bull, Mount Sinai, Montessori, CSS Design Awards, Precision Nutrition, SMS Tech, HALFBIT, and others. I’m one part creative, one part logic; I've worked as a front-end developer, UI/UX/graphic designer, and most recently as a product designer and product manager. Always in a neverending state of experimentation in order to test cutting edge tech.'
   }
 ```
 
