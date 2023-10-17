@@ -9,7 +9,7 @@
   }
 ```
 
-Feel free to [reach out to me via email](mailto:hi@nicolasjengler.com.ar) ✉️ or [check my website](https://nicolasjengler.com.ar) 🖥️
+Feel free to [reach out to me via email](mailto:hi@nicolasjengler.com.ar) ✉️, [check my LinkedIn profile](https://linkedin.com/in/nicolasjengler) 💼 or [visit my website](https://nicolasjengler.com.ar) 🖥️
 
 ---
 
