@@ -4,7 +4,6 @@
   const Nico = {
     name: 'Nicolás',
     currentPosition: 'Technical Product Manager',
-    pronouns: 'he/him',
     bio: 'I’m a digital product manager that also happens to do a bunch of other stuff. From Argentina 🇦🇷.'
   }
 ```
