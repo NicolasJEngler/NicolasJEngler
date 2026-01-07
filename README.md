@@ -10,7 +10,7 @@ const Nico = {
 
 I work at the intersection of **product thinking, design, and technology**, helping turn complex ideas into clear, coherent systems and products.
 
-Rather than operating within a single role, I move fluidly across disciplines, connecting strategy, user experience, and execution. My background spans product management, experience design, creative direction, and technical problem-solving, which allows me to act as a bridge between teams, constraints, and long-term goals.
+Rather than operating within a single role, I move fluidly across disciplines; connecting strategy, user experience, and execution. My background spans product management, experience design, creative direction, and technical problem-solving, which allows me to act as a bridge between teams, constraints, and long-term goals.
 
 I've collaborated with brands and institutions such as **PepsiCo, the United States Tennis Association, AB InBev, Vayner, Red Bull, Mount Sinai, Montessori, CSS Design Awards, Precision Nutrition, SMS Tech, HALFBIT**, and others.
 
@@ -25,7 +25,7 @@ A big part of my work lives in **experimentation**: exploring emerging tools, bu
 * Technical artifacts that support product thinking
 * Ongoing tests around tools, workflows, and emerging tech
 
-This is not a portfolio of "finished" work—it's a living lab.
+This is not a portfolio of "finished" work - it's a living lab.
 
 ---
 
