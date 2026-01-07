@@ -1,28 +1,53 @@
 ## Nicolás J. Engler
 
 ```js
-  const Nico = {
-    name: 'Nicolás',
-    currentPosition: 'Technical Product Manager',
-    bio: 'I’m a digital product manager that also happens to do a bunch of other stuff. From Argentina 🇦🇷.'
-  }
+const Nico = {
+  base: 'Argentina 🇦🇷',
+  focus: ['product', 'systems', 'strategy', 'experimentation'],
+  approach: 'multidisciplinary, exploratory, outcome-driven'
+}
 ```
 
-I’ve worked with brands and institutions such as Pepsi, United States Tennis Association, Vayner, Red Bull, Mount Sinai, Montessori, CSS Design Awards, Precision Nutrition, SMS Tech, HALFBIT, and others. I’m one part creative, one part logic; I've worked as a front-end developer, UI/UX/graphic designer, and most recently as a product designer and product manager. Always in a neverending state of experimentation in order to test cutting edge tech.
+I work at the intersection of **product thinking, design, and technology**, helping turn complex ideas into clear, coherent systems and products.
 
-Feel free to [reach out to me via email](mailto:hi@nicolasjengler.com.ar) ✉️, [check my LinkedIn profile](https://linkedin.com/in/nicolasjengler) 💼 or [visit my website](https://nicolasjengler.com.ar) 🖥️
+Rather than operating within a single role, I move fluidly across disciplines—connecting strategy, user experience, and execution. My background spans product management, experience design, creative direction, and technical problem-solving, which allows me to act as a bridge between teams, constraints, and long-term goals.
 
----
+I've collaborated with brands and institutions such as **PepsiCo, the United States Tennis Association, AB InBev, Vayner, Red Bull, Mount Sinai, Montessori, CSS Design Awards, Precision Nutrition, SMS Tech, HALFBIT**, and others.
 
-### 💬. Experiences & testimonials
-> "What I love the most about working with Nico is that he is proactive, very creative when looking for the solution to a problem, and you could say he is an “outside-the-box” kind of thinker, which makes collaborating with him an overall smooth ride."
->
-> *Yesi Danderfer, founder of [DND](https://www.danderfer.net/)*
-
-> "Nicolás is not only an exceptional developer, who constantly strives to grow within his field, but he's also a wonderful person. It's been a true pleasure working with him for the past couple of years! I hope to continue to work with him for many more years to come."
->
-> *Gini Lusting, COO at [Indicius](https://indicius.com/)*
+A big part of my work lives in **experimentation**: exploring emerging tools, building proof-of-concepts, testing workflows, and pressure-testing ideas before they become products. GitHub is where many of those explorations, prototypes, and thought-processes end up.
 
 ---
 
-Don't be shy, [get in touch!](mailto:hi@nicolasjengler.com.ar)
+### 🌱 What you'll find here
+
+* Product and systems experiments
+* Proof-of-concepts and exploratory builds
+* Technical artifacts that support product thinking
+* Ongoing tests around tools, workflows, and emerging tech
+
+This is not a portfolio of "finished" work—it's a living lab.
+
+---
+
+### 💬 Experiences & testimonials
+
+> “What I love the most about working with Nico is that he is proactive, very creative when looking for solutions, and an outside-the-box thinker. Collaborating with him is always a smooth ride.”
+>
+> *Yesi Danderfer, Founder at DND*
+
+> “Nicolás brings a rare mix of technical depth, curiosity, and human quality. He's constantly evolving and a genuine pleasure to work with.”
+>
+> *Gini Lusting, COO at Indicius*
+
+---
+
+### 🔗 Where/How to find me
+
+* 🌐 Website: [https://nicolasjengler.com.ar](https://nicolasjengler.com.ar)
+* ✍️ Writing: [https://blog.nicolasjengler.com.ar](https://blog.nicolasjengler.com.ar)
+* 💼 LinkedIn: [https://linkedin.com/in/nicolasjengler](https://linkedin.com/in/nicolasjengler)
+* ✉️ Email: [hi@nicolasjengler.com.ar](mailto:hi@nicolasjengler.com.ar)
+
+---
+
+If something here sparks a conversation, feel free to reach out.
